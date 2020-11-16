@@ -1,5 +1,5 @@
 homepage: "https://www.luratic.com"
-documentation: "https://www.luratic.com/posts/templates/tags/clarity/"
+documentation: "https://www.luratic.com/posts/templates/tags/teads/"
 versions:
-  - sha: 0cfc4633817932f067ec730451ef3d47efea1c17
+  - sha: e45c3a0a1d4f2cdbb0723823640c474fe759fbb6
     changeNotes: Initial release
